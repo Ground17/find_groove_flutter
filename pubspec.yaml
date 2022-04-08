@@ -1,5 +1,5 @@
-name: search_music_flutter
-description: Flutter project for search_music.
+name: find_groove_flutter
+description: Flutter project for find_groove.
 
 # The following line prevents the package from being accidentally published to
 # pub.dev using `flutter pub publish`. This is preferred for private packages.
@@ -34,8 +34,9 @@ dependencies:
   # The following adds the Cupertino Icons font to your application.
   # Use with the CupertinoIcons class for iOS style icons.
   cupertino_icons: ^1.0.2
-  record: ^3.0.3
-  http: ^0.13.4
+  google_mobile_ads: ^1.1.0
+  url_launcher: 6.0.20
+  app_tracking_transparency: 2.0.2+1
 
 dev_dependencies:
   flutter_test:
